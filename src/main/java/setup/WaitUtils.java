@@ -11,7 +11,6 @@ import java.util.List;
 
 public class WaitUtils {
 
-    //todo
     public static final Duration MAX_DURATION = Duration.ofSeconds(20);
     public static final Duration LONG_DURATION = Duration.ofSeconds(10);
     public static final Duration AVERAGE_DURATION = Duration.ofSeconds(10);
